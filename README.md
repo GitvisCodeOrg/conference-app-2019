@@ -256,3 +256,12 @@ This project uses some modern Android libraries and source codes.
 * [Injected ViewModel Provider](https://github.com/evant/injectedvmprovider) (evant)
 * [Google I/O 2018](https://github.com/google/iosched) (Google)
 * [Picasso](http://square.github.io/picasso/) (Square)
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/usQG2ylNro4/0.jpg)](https://www.youtube.com/watch?v=usQG2ylNro4)
+
+ [https://www.youtube.com/watch?v=usQG2ylNro4](https://www.youtube.com/watch?v=usQG2ylNro4)
+
